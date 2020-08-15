@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 👾  Personal Page
+  - [dceoy.github.io](//dceoy.github.io/)
+- 🦄  Software Repository
+  - [GitHub](//github.com/dceoy) / [Gist](//gist.github.com/dceoy)
+  - [Docker Hub](//hub.docker.com/u/dceoy)
+  - [PyPI](//pypi.org/user/dceoy/)
+- 🌐  Web Application
+  - [Mahq: Web Search Form for Medical and Healthcare Queries](//dceoy.github.io/mahq/)
+
+
 <!--
 **dceoy/dceoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![dceoy's github stats](https://github-readme-stats.vercel.app/api?username=dceoy)](https://github.com/anuraghazra/github-readme-stats)
