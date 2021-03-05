@@ -7,7 +7,7 @@
   - [Docker Hub](//hub.docker.com/u/dceoy)
   - [PyPI](//pypi.org/user/dceoy/)
 - 🌐  Web Application
-  - [Mahq: Web Search Form for Medical and Healthcare Queries](//dceoy.github.io/mahq/)
+  - [Mahq: Web Search Form for Medical and Healthcare Queries](//mahq.pages.dev/)
 
 
 <!--
