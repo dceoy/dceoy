@@ -6,9 +6,6 @@
   - [GitHub](//github.com/dceoy) / [Gist](//gist.github.com/dceoy)
   - [Docker Hub](//hub.docker.com/u/dceoy)
   - [PyPI](//pypi.org/user/dceoy/)
-- 🌐  Web Application
-  - [Mahq: Web Search Form for Medical and Healthcare Queries](//mahq.pages.dev/)
-
 
 <!--
 **dceoy/dceoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
