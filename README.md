@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👾  Personal Page
-  - [dceoy.pages.dev](//dceoy.pages.dev/)
+  - [dceoy.com](//dceoy.com/)
 - 🦄  Software Repository
   - [GitHub](//github.com/dceoy) / [Gist](//gist.github.com/dceoy)
   - [Docker Hub](//hub.docker.com/u/dceoy)
