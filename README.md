@@ -3,7 +3,9 @@
 - 👾  Personal Page
   - [dceoy.com](//dceoy.com/)
 - 🦄  Software Repository
-  - [GitHub](//github.com/dceoy) / [Gist](//gist.github.com/dceoy)
+  - [GitHub](//github.com/dceoy)
+  - [GitHub Gist](//gist.github.com/dceoy)
+  - [GitHub Marketplace](//github.com/marketplace?query=dceoy&type=actions)
   - [Docker Hub](//hub.docker.com/u/dceoy)
   - [PyPI](//pypi.org/user/dceoy/)
 
