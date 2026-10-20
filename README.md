@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👾  Personal Page
+- 👾 Personal Page
   - [dceoy.com](//dceoy.com/)
-- 🦄  Software Repository
+- 🦄 Software Repository
   - [GitHub](//github.com/dceoy)
   - [GitHub Gist](//gist.github.com/dceoy)
   - [GitHub Marketplace](//github.com/marketplace?query=dceoy&type=actions)
