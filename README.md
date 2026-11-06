@@ -8,6 +8,8 @@
   - [GitHub Marketplace](//github.com/marketplace?query=dceoy&type=actions)
   - [Docker Hub](//hub.docker.com/u/dceoy)
   - [PyPI](//pypi.org/user/dceoy/)
+- 🤖 AI Agent
+  - [Muse](https://muse.ai/join) — Referral code: `GOO7RF` (redeem in Settings within 48 hours of joining to earn 1 billion Muse tokens each)
 
 <!--
 **dceoy/dceoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
